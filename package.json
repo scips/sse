@@ -1,0 +1,24 @@
+{
+  "name": "sse",
+  "version": "1.0.0",
+  "description": "ServerSentEvent and Event Source Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scips/sse.git"
+  },
+  "keywords": [
+    "ServerSentEvent",
+    "Events",
+    "Source"
+  ],
+  "author": "Sébastien Barbieri <sebastien.barbieri@gmail.com>",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/scips/sse/issues"
+  },
+  "homepage": "https://github.com/scips/sse#readme"
+}
